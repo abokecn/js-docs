@@ -1,3 +1,3 @@
-# Example Second Page
+# 这是第二页
 
-This is an example second page that will appear in the Docsify Sidebar.
+这页是预留的
