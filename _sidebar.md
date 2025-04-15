@@ -1,2 +1,2 @@
-- [Read Me](README)
-- [Example Second Page](second-page)
+- [首页](README)
+- [这页是预留的](second-page)
